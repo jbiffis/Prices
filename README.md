@@ -1,5 +1,5 @@
-beer
+Beer Prices 
 ====
 
-##beer app
+##Beer Prices app
 cvb
